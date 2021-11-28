@@ -1,0 +1,27 @@
+F:\project mm 1\project mm 1\bin\Debug\project mm 1.exe.config
+F:\project mm 1\project mm 1\bin\Debug\project mm 1.exe
+F:\project mm 1\project mm 1\bin\Debug\project mm 1.pdb
+F:\project mm 1\project mm 1\obj\Debug\project mm 1.csprojAssemblyReference.cache
+F:\project mm 1\project mm 1\obj\Debug\project_mm_1.Properties.Resources.resources
+F:\project mm 1\project mm 1\obj\Debug\project mm 1.csproj.GenerateResource.cache
+F:\project mm 1\project mm 1\obj\Debug\project mm 1.csproj.CoreCompileInputs.cache
+F:\project mm 1\project mm 1\obj\Debug\project mm 1.exe
+F:\project mm 1\project mm 1\obj\Debug\project mm 1.pdb
+F:\sem4\project mm 1\project mm 1\bin\Debug\project mm 1.exe.config
+F:\sem4\project mm 1\project mm 1\bin\Debug\project mm 1.exe
+F:\sem4\project mm 1\project mm 1\bin\Debug\project mm 1.pdb
+F:\sem4\project mm 1\project mm 1\obj\Debug\project mm 1.csprojAssemblyReference.cache
+F:\sem4\project mm 1\project mm 1\obj\Debug\project_mm_1.Properties.Resources.resources
+F:\sem4\project mm 1\project mm 1\obj\Debug\project mm 1.csproj.GenerateResource.cache
+F:\sem4\project mm 1\project mm 1\obj\Debug\project mm 1.csproj.CoreCompileInputs.cache
+F:\sem4\project mm 1\project mm 1\obj\Debug\project mm 1.exe
+F:\sem4\project mm 1\project mm 1\obj\Debug\project mm 1.pdb
+G:\PROJECTS\project mm 1\project mm 1\bin\Debug\project mm 1.exe.config
+G:\PROJECTS\project mm 1\project mm 1\bin\Debug\project mm 1.exe
+G:\PROJECTS\project mm 1\project mm 1\bin\Debug\project mm 1.pdb
+G:\PROJECTS\project mm 1\project mm 1\obj\Debug\project mm 1.csprojAssemblyReference.cache
+G:\PROJECTS\project mm 1\project mm 1\obj\Debug\project_mm_1.Properties.Resources.resources
+G:\PROJECTS\project mm 1\project mm 1\obj\Debug\project mm 1.csproj.GenerateResource.cache
+G:\PROJECTS\project mm 1\project mm 1\obj\Debug\project mm 1.csproj.CoreCompileInputs.cache
+G:\PROJECTS\project mm 1\project mm 1\obj\Debug\project mm 1.exe
+G:\PROJECTS\project mm 1\project mm 1\obj\Debug\project mm 1.pdb
